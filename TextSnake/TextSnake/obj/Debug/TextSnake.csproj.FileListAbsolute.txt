@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TextSnake\TextSnake\bin\Debug\TextSnake.exe.config
+C:\Users\User\source\repos\TextSnake\TextSnake\bin\Debug\TextSnake.exe
+C:\Users\User\source\repos\TextSnake\TextSnake\bin\Debug\TextSnake.pdb
+C:\Users\User\source\repos\TextSnake\TextSnake\obj\Debug\TextSnake.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TextSnake\TextSnake\obj\Debug\TextSnake.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextSnake\TextSnake\obj\Debug\TextSnake.exe
+C:\Users\User\source\repos\TextSnake\TextSnake\obj\Debug\TextSnake.pdb
